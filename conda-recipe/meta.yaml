@@ -1,0 +1,25 @@
+{% set data = load_setup_py_data(setup_file='../setup.py', from_recipe_dir=True) %}
+
+package:
+  name: tomosans
+  version: {{ data.get('version') }}
+    
+source:
+    path: ..
+
+requirements:
+    host:
+      - python
+    
+    build:
+        - python
+        - setuptools
+        
+    run:
+        {% for req in data.get('install_requires', []) %}
+          - {{ req }}
+        {% endfor %}
+        
+    
+about:
+  summary: SANS tomography with spin textures
