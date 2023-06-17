@@ -1,6 +1,6 @@
 # Tomo-SANS
 
-[Melissa E. Henderson]<sup>1,2</sup>, [Benjamin Heacock]<sup>3</sup>, and [Dmitry Pushin]<sup>1,2</sup> 
+[Benjamin Heacock]<sup>3</sup>, [Melissa E. Henderson]<sup>1,2</sup>, and [Dmitry Pushin]<sup>1,2</sup> 
 
 <sup>1</sup> *Institute for Quantum Computing, University of Waterloo, Waterloo, ON, Canada, N2L3G1*  
 <sup>2</sup> *Department of Physics & Astronomy, University of Waterloo,
