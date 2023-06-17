@@ -15,12 +15,11 @@ Tomo-SANS is a Python package for reconstructing 3D magnetization volumes using 
 
 ## How to cite
 
-	@article{Henderson2022,
+	@article{Henderson2022three,
             author =  {Henderson, ME and Heacock, B and Bleuel, M and Cory, DG and Heikes, C and Huber, MG and Krzywon, J and Nahman-Levesqu{\'e}, O and Luke, GM and Pula, M and others},
             title =  {Three-Dimensional Neutron Far-Field Tomography of a Bulk Skyrmion Lattice},
             journal = {arXiv preprint arXiv:2208.00023},
             year =  {2022},
-      
-    }
+	    }
 
 
