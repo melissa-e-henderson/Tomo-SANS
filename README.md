@@ -11,7 +11,7 @@
 
 ## About
 
-Tomo-SANS is a Python package for reconstructing 3D magnetization volumes using a small angle neutron scattering tomography algorithm developed [here](https://arxiv.org/pdf/2208.00023.pdf). The algorithm processes multi-projection small angle neutron scattering measurements to generate mean scattering feature reconstructions (MSFR) of bulk spin textures. The free parameters used in the reconstruction are the external field, B, the saturation magnetization, M<sub>s</sub>, the average magnetization, <m<sub>z</sub>>, and a Zeeman weighting term, h. 
+Tomo-SANS is a Python package for reconstructing 3D magnetization volumes using a small angle neutron scattering tomography algorithm developed [here](https://arxiv.org/pdf/2208.00023.pdf). The algorithm processes multi-projection small angle neutron scattering measurements, coupled with a free energy regularization, to generate mean scattering feature reconstructions (MSFR) of bulk spin textures. The free parameters used in the reconstruction are the external field, B, the saturation magnetization, M<sub>s</sub>, the average magnetization, <m<sub>z</sub>>, and a Zeeman weighting term, h. 
 
 ## How to cite
 
