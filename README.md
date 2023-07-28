@@ -2,10 +2,11 @@
 
 [Benjamin Heacock]<sup>3</sup>, [Melissa E. Henderson]<sup>1,2</sup>, and [Dmitry Pushin]<sup>1,2</sup> 
 
-<sup>1</sup> *Institute for Quantum Computing, University of Waterloo, Waterloo, ON, Canada, N2L3G1*  
-<sup>2</sup> *Department of Physics & Astronomy, University of Waterloo,
+<sup>1</sup> *National Institute of Standards and Technology, Gaithersburg, Maryland 20899, USA*
+<sup>2</sup> *Institute for Quantum Computing, University of Waterloo, Waterloo, ON, Canada, N2L3G1*  
+<sup>3</sup> *Department of Physics & Astronomy, University of Waterloo,
   Waterloo, ON, Canada, N2L3G1*  
-<sup>3</sup> *National Institute of Standards and Technology, Gaithersburg, Maryland 20899, USA*  
+ 
 
 
 
