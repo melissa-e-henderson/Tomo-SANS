@@ -24,6 +24,6 @@ Tomo-SANS is a Python package for reconstructing 3D magnetization volumes using 
 	}
 
  ## Acknowledgements
-This work was supported by the Canadian Excellence Research Chairs (CERC) program, the Natural Sciences and Engineering Council of Canada (NSERC) Discovery program, the Canada First Research Excellence Fund (CFREF), the National Institute of Standards and Technology (NIST) and the US Department of Energy, Office of Nuclear Physics.
+This work was supported by the Canadian Excellence Research Chairs (CERC) program, the Natural Sciences and Engineering Council of Canada (NSERC) Discovery program, the Canada First Research Excellence Fund (CFREF), the National Institute of Standards and Technology (NIST), and the US Department of Energy, Office of Nuclear Physics.
 
 
